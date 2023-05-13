@@ -1,0 +1,11 @@
+/Users/fys/Documents/builds/skin_care_product_API/Backend/CareProductsAPI/src/main/java/com/dev/CareProductsAPI/repository/ProductsRepo.java
+/Users/fys/Documents/builds/skin_care_product_API/Backend/CareProductsAPI/src/main/java/com/dev/CareProductsAPI/repository/ReviewsRepo.java
+/Users/fys/Documents/builds/skin_care_product_API/Backend/CareProductsAPI/src/main/java/com/dev/CareProductsAPI/service/impl/ReviewsImpl.java
+/Users/fys/Documents/builds/skin_care_product_API/Backend/CareProductsAPI/src/main/java/com/dev/CareProductsAPI/service/ReviewsServiceImpl.java
+/Users/fys/Documents/builds/skin_care_product_API/Backend/CareProductsAPI/src/main/java/com/dev/CareProductsAPI/service/impl/ProductsImpl.java
+/Users/fys/Documents/builds/skin_care_product_API/Backend/CareProductsAPI/src/main/java/com/dev/CareProductsAPI/model/Reviews.java
+/Users/fys/Documents/builds/skin_care_product_API/Backend/CareProductsAPI/src/main/java/com/dev/CareProductsAPI/service/ProductsService.java
+/Users/fys/Documents/builds/skin_care_product_API/Backend/CareProductsAPI/src/main/java/com/dev/CareProductsAPI/model/Products.java
+/Users/fys/Documents/builds/skin_care_product_API/Backend/CareProductsAPI/src/main/java/com/dev/CareProductsAPI/CareProductsApiApplication.java
+/Users/fys/Documents/builds/skin_care_product_API/Backend/CareProductsAPI/src/main/java/com/dev/CareProductsAPI/controller/ReviewsController.java
+/Users/fys/Documents/builds/skin_care_product_API/Backend/CareProductsAPI/src/main/java/com/dev/CareProductsAPI/controller/ProductsController.java
